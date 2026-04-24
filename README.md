@@ -1,2 +1,0 @@
-# PythonBasic
-Python基础
