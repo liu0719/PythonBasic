@@ -1,2 +1,1 @@
-#Python基础
-##123
+# Python基础
