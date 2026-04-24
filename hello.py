@@ -22,6 +22,15 @@ print("Thank you for using this script. See you next time!")
 print("This is the final line of code. Ending the script now.")
 print("Script execution finished. Goodbye!")
 print("This is the end of the script. Thank you for running it!")
-print("Have a great day! See you next time!")         
+print("Have a great day! See you next time!")     
+print("This is the last line of code in the script. Ending now.")
+print("Script execution completed. Goodbye!")
+print("This is the end of the script. Thank you for running it!")   
+print("Have a wonderful day ahead! See you next time!") 
+print
+
+("This is the final line of code. Ending the script now.")
+print("Script execution finished. Goodbye!")
+print("This is the end of the script. Thank you for running it!")
 
 
