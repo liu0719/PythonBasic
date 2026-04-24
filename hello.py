@@ -1,2 +1,6 @@
 print("Hello, World!")
-from datetime import datetime
+print("Welcome to Python programming.")
+print("This is a simple script to demonstrate basic Python syntax.")
+print("You can run this script to see the output.") 
+print("Feel free to modify the code and experiment with it!")
+print("Happy coding!")
