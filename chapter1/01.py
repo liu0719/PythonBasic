@@ -10,3 +10,13 @@ order('01_user','鱼香肉丝',3,time='20260504')
 # /前只能用位置参数，*后只能用关键字参数
 order('01_user','辣子鸡',33,time='20260504')
 # 这是新增的，你看得见吗
+def add(a,b):
+    '''
+    计算两个数相加的和
+    :param a: 第一个数
+    :param b: 第二个数
+    :return: 两个数的和
+    '''
+    return a + b
+print(add(1,2))
+help(int) 
