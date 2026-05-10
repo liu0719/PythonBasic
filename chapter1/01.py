@@ -18,5 +18,7 @@ def add(a,b):
     :return: 两个数的和
     '''
     return a + b
-print(add(1,2))
-help(int) 
+
+index_nums=[21,4,9,78,34,21,4]
+index_nums.sort()
+print(index_nums)
