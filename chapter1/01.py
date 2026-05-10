@@ -22,3 +22,7 @@ def add(a,b):
 index_nums=[21,4,9,78,34,21,4]
 index_nums.sort()
 print(index_nums)
+item=(100,200,300,400,500)
+for key,value in enumerate(item,start=5):
+    print(key,value)
+print(type(item))
